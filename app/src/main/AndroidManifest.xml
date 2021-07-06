@@ -17,7 +17,7 @@
         <activity android:name=".Localizacao" />
         <activity android:name=".Relatorios" />
         <activity android:name=".CadastroPrestador" />
-        <activity android:name=".AnunciosDisponiveis" />
+        <activity android:name=".AnunciosDisponiveis.AnunciosDisponiveis" />
         <activity android:name=".CadastrodosAnuncios" />
         <activity android:name=".MainActivity">
             <intent-filter>
